@@ -1,5 +1,4 @@
 # THXAN-2
-兼容一切智能IDE，开发新范式
 
 T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)
 
