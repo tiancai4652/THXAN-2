@@ -1,2 +1,6 @@
 # THXAN-2
-a best cursor rule ever know
+
+## 如何使用
+兼容一切智能IDE，开发新范式
+
+
