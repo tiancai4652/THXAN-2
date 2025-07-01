@@ -12,3 +12,6 @@ T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)
 
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/f47e6063-6d2d-4369-bad4-49958e47a132" />
 
+
+
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/0b1af23c-9f0e-49ed-9c52-4992fb055853" />
