@@ -7,6 +7,8 @@ T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)
 
 欢迎STAR✨
 
+<img width="2050" alt="image" src="https://github.com/user-attachments/assets/8e5f97ca-e823-428a-a27d-f1622c2b5a74" />
+
 
 <img width="736" alt="image" src="https://github.com/user-attachments/assets/f47e6063-6d2d-4369-bad4-49958e47a132" />
 
