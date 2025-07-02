@@ -2,6 +2,13 @@
 
 T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)
 
+## Update 
+2025-07-02 20:07    V3.0.0
+1. 将上下文拆分为状态(STATE)和过程(PROCESS)两类.
+2. 调整反思逻辑
+
+
+
 ## 如何使用
 直接粘贴到 user_rules中
 
