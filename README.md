@@ -1,6 +1,6 @@
 # THXAN-2
 
-T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)
+~~T (Triage) -> H (Heed) -> X (eXecute) -> A (Assess) -> N (Nurture)~~ 
 
 ## Update 
 2025-07-02 20:07    V3.0.0
